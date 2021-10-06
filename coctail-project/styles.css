@@ -1,0 +1,13 @@
+
+.cocktail-wrapper{
+ display: grid;
+
+}
+.single-cocktail {
+  background-color: pink;
+  width: 20%;
+}
+
+.single-cocktail img {
+  width: 100px;
+}
